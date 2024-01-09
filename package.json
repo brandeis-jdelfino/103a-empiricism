@@ -1,0 +1,22 @@
+{
+  "name": "103a-empiricism",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandeis-jdelfino/103a-empiricism.git"
+  },
+  "author": "Joe Delfino",
+  "license": "CC-BY-SA-4.0",
+  "bugs": {
+    "url": "https://github.com/brandeis-jdelfino/103a-empiricism/issues"
+  },
+  "homepage": "https://github.com/brandeis-jdelfino/103a-empiricism#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
